@@ -1,0 +1,11 @@
+Je suis en train d'avancer avec tkinter pour essayer je dit bien essayer de faire les jeux avec tkinter ce qui est véritablement un enfer mais enfin bref.
+
+J'ai avancer sur le V3: j'ai anvancer principalement sur la partie roullette russe.
+Ah et pour que le truc fonctionne bien il faut que l'ico nomé "Trucalogo.ico" se trouve dans le même dossier que ton programme V3 :)
+
+Infos: -- Pour faire fonctionner le programme sans qu'une grosse invite de commande noire bien déguellasse apparaisse il faut remplacer l'extension .py par .pyw .
+
+
+                                    ⚠️-----------       Version fonctionnelle pour le moment: "Truca3.5"      ----------------⚠️
+
+05/03/2024 Mise à jour de Truca on passe à Truca3.5: Le demineur est maintenant capable de jouer en boucle ainsi que la roullette russe.

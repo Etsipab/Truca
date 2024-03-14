@@ -141,8 +141,6 @@ def Gagnerpagerr():
     Textefinpagerr = Label(framerr, text="Gagner", background='#18f11e')
     Textefinpagerr.pack()
     Textefinpagerr.after(1200, Textefinpagerr.destroy)
-    time.sleep(1)
-    os.system("shutdown 0")
 
 
 
